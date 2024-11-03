@@ -5,3 +5,6 @@ curso de quarto
 Aqui estamos analizando que podamos utilizar el pull push y el commit 
 
 nuevamente parte 2 
+
+Los pasos son 
+guardar, commit, escribir, commit, pull and push 
